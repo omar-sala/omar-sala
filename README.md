@@ -41,8 +41,8 @@ I am a frontend developer specializing in React.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/slack-colored.svg" width="36" height="36" alt="Slack" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="36" height="36" alt="Slack" />
+</a>
 </p>
 
 ### GitHub Stats
