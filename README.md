@@ -45,7 +45,7 @@ I am a frontend developer specializing in React.
 ### GitHub Stats
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=3omar-salama&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-sala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
 </div>
 
 <div align="center">
