@@ -15,17 +15,7 @@ I love solving problems, building real projects, and constantly learning new tec
 ---
 
 ## 🛠️ **Skills & Tools**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/github.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="36" />
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" /> <!-- Tailwind --> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" /> <!-- React Router --> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactrouter.svg" height="36" /> <!-- Framer Motion --> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framermotion.svg" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" /> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/github.svg" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="36" /> </p>
 
 ---
 
@@ -34,8 +24,9 @@ I love solving problems, building real projects, and constantly learning new tec
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Portfolio Website** | A modern responsive portfolio built with React | React, CSS |
-| **Weather App** | Fetches real API data + caching | JavaScript, API |
-| **E-commerce UI** | Product cards, filtering, cart logic | React, Context |
+| **Whatisgoing** | Fetches real API data + caching | JavaScript, API |
+| **Egyptian Museum** | Grand Egyptian Museum website | JavaScript, Php |
+| **Food Resturant** | A modern responsive restaurant app | React, Bootstrap, JavaScript |
 
 ---
 
@@ -61,6 +52,6 @@ I love solving problems, building real projects, and constantly learning new tec
 ---
 
 ## 📬 **Contact Me**
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: your-link  
-- 🌍 Portfolio: your-link  
+- 📧 Email: **omarsalamaali870@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/omarsalama11/ 
+- 🌍 Portfolio: https://react-portfolio-d26a6.firebaseapp.com/?fbclid=IwY2xjawExbShleHRuA2FlbQIxMAABHSToIbfjukiLl3hqlLZO1bpmZF8nCPsRce2AksJixgEo7mpnRjsblSIJcw_aem_7f4BqHCvze8G4jSFiVFJfw
