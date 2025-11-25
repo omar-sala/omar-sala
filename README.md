@@ -1,54 +1,66 @@
-# Hi 👋 My name is Omar Salama
+# Hi 👋 I'm **Omar Salama**
+### **Frontend React Developer**
 
-## Web Developer
+I'm a passionate frontend developer focused on building fast, responsive, and clean UI using **React, JavaScript, and modern frontend tools**.  
+I love solving problems, building real projects, and constantly learning new technologies.
 
-I am a frontend developer specializing in React.
+---
 
-### Skills
+## 🚀 **About Me**
+- 🌱 Currently improving my **React, API integration, and performance optimization** skills  
+- 💻 Building frontend projects with **React + Vite + Tailwind**  
+- 🔍 I enjoy debugging and understanding *why* things work, not just *how*  
+- 🎯 My goal is to join a strong team where I can grow and add value  
 
+---
+
+## 🛠️ **Skills & Tools**
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" />
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/github.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="36" />
 </p>
 
-### GitHub Stats
+---
 
+## 📂 **Featured Projects**
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Portfolio Website** | A modern responsive portfolio built with React | React, CSS |
+| **Weather App** | Fetches real API data + caching | JavaScript, API |
+| **E-commerce UI** | Product cards, filtering, cart logic | React, Context |
+
+---
+
+## 🏆 **What I’m Good At**
+✔ Turning UI/UX designs into responsive interfaces  
+✔ Working with APIs + handling errors & loading states  
+✔ Writing clean reusable components  
+✔ Debugging & problem-solving  
+✔ Git & GitHub workflow  
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-sala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-sala&theme=dark" height="220" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omar-sala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omar-sala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omar-sala&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omar-sala&layout=compact&theme=dracula" height="150" />
 </div>
+
+---
+
+## 📬 **Contact Me**
+- 📧 Email: **your-email@example.com**  
+- 💼 LinkedIn: your-link  
+- 🌍 Portfolio: your-link  
