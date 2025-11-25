@@ -23,9 +23,6 @@ I love solving problems, building real projects, and constantly learning new tec
   <!-- React Router -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactrouter.svg" height="36" title="React Router" />
 
-  <!-- Framer Motion -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framermotion.svg" height="36" title="Framer Motion" />
-
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" />
 
