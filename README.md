@@ -69,17 +69,7 @@ I enjoy turning ideas into products, solving real problems, and continuously imp
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-sala&theme=dark" height="220" />
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" />
-
-</div>
+<div align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-sala&theme=dark" height="220" /> </div> <div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omar-sala&show_icons=true&theme=dracula" height="150" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omar-sala&layout=compact&theme=dracula" height="150" /> </div>
 
 ---
 
