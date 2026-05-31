@@ -11,7 +11,7 @@ I enjoy turning ideas into products, solving real problems, and continuously imp
 - 🌱 Currently learning more about **Node.js, backend architecture, and scalable applications**
 - 💻 Building full-stack projects using **React, Next.js, Node.js, Express**
 - ⚡ Experienced with frontend development using **React + Vite + Tailwind CSS**
-🧠 Enjoy breaking down problems. solved **900+ coding challenges** on [LeetCode](https://leetcode.com/u/omar-salama/) and [HackerRank](https://www.hackerrank.com/profile/omarsalamaali870) and [Codewars](https://www.codewars.com/users/OmarSalama)
+- 🧠 Enjoy breaking down problems. solved **900+ coding challenges** on [LeetCode](https://leetcode.com/u/omar-salama/) and [HackerRank](https://www.hackerrank.com/profile/omarsalamaali870) and [Codewars](https://www.codewars.com/users/OmarSalama)
 - 🎯 My goal is to become a strong software developer who builds impactful products
 
 ---
