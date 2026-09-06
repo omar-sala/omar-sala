@@ -1,18 +1,18 @@
-# Hi 👋 I'm Omar Salama  
+# Hi 👋 I'm Omar Salama  
 ## Software Developer
 
-I'm a passionate software developer focused on building scalable, responsive, and real-world applications using modern JavaScript technologies.  
+I'm a software developer focused on building responsive and real-world web applications using modern JavaScript technologies.  
 I enjoy turning ideas into products, solving real problems, and continuously improving my skills across frontend and backend development.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning more about **Node.js, backend architecture, and scalable applications**
-- 💻 Building full-stack projects using **React, Next.js, Node.js, Express**
-- ⚡ Experienced with frontend development using **React + Vite + Tailwind CSS**
-- 🧠 Enjoy breaking down problems. solved **900+ coding challenges** on [LeetCode](https://leetcode.com/u/omar-salama/) and [HackerRank](https://www.hackerrank.com/profile/omarsalamaali870) and [Codewars](https://www.codewars.com/users/OmarSalama)
-- 🎯 My goal is to become a strong software developer who builds impactful products
+- 💻 Building full-stack applications with **Node.js, Express, PostgreSQL, and Prisma**
+- ⚡ Experienced with frontend development using **React, Next.js, Vite, and Tailwind CSS**
+- 🧠 Enjoy breaking down problems. Solved **900+ coding challenges** on [LeetCode](https://leetcode.com/u/omar-salama/), [HackerRank](https://www.hackerrank.com/profile/omarsalamaali870), and [Codewars](https://www.codewars.com/users/OmarSalama)
+- 🎯 Open to new opportunities — onsite, hybrid, or remote
+- 🚀 I enjoy building real-world products that solve actual problems
 
 ---
 
@@ -31,8 +31,14 @@ I enjoy turning ideas into products, solving real problems, and continuously imp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -48,22 +54,12 @@ I enjoy turning ideas into products, solving real problems, and continuously imp
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| **RIFY** | Real-world platform connecting rural products with customers using real-time features | React, Supabase, Tailwind |
+| **RIFY** | Real-world rural marketplace connecting sellers, customers, and delivery drivers with real-time tracking and payment integration | Next.js, TypeScript, Node.js, Express, Supabase |
+| **HelpDesk Lite** | Internal support ticketing system with role-based access control, ticket workflows, authentication, and manager analytics | React, TypeScript, Node.js, Express, PostgreSQL, Prisma |
+| **Egyptian Museum** | Grand Egyptian Museum website project with ticket booking and admin functionality | JavaScript, PHP, MySQL |
 | **Portfolio Website** | Personal responsive portfolio showcasing projects and skills | React, CSS |
 | **Whatisgoing** | API-based application with caching and dynamic data fetching | JavaScript, API |
-| **Egyptian Museum** | Grand Egyptian Museum website project | JavaScript, PHP |
 | **Food Restaurant** | Modern responsive restaurant application | React, Bootstrap |
-
----
-
-## 🏆 What I Bring
-
-✔ Building responsive and clean user interfaces  
-✔ API integration & asynchronous data handling  
-✔ Writing reusable and maintainable components  
-✔ Debugging and performance optimization  
-✔ Git & GitHub workflow  
-✔ Understanding frontend architecture and scalability  
 
 ---
 
@@ -83,4 +79,4 @@ I enjoy turning ideas into products, solving real problems, and continuously imp
 
 ## ⚡ Fun Fact
 
-I enjoy building real-world products more than tutorial projects, and I’m always looking for opportunities to grow as a developer 🚀
+I enjoy building real-world products more than tutorial projects, and I’m always looking for opportunities to learn, build, and grow as a developer 🚀
